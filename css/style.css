@@ -1,0 +1,12 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #fff;
+    font-size: 14px;
+    
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 1170px;
+    min-width: 380px;
+}
